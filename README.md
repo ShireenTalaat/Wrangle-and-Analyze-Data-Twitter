@@ -12,7 +12,7 @@ This project implements a comprehensive data wrangling and analysis pipeline to 
 
 The data wrangling and analysis architecture follows a typical Extract, Assess, Clean, Analyze, and Visualize (EACAV) workflow. Data is extracted from various sources, including a provided Twitter archive and external APIs. It is then systematically assessed for quality and tidiness issues. A cleaning phase addresses identified problems, leading to a refined dataset. Finally, the cleaned data is used for exploratory analysis and visualization to derive insights.
 
-![Data Wrangling Workflow](data_wrangling_workflow.png)
+![Data Wrangling Workflow](https://github.com/ShireenTalaat/Wrangle-and-Analyze-Data-Twitter/blob/1dafb82016e2d4b4d614a55797783a2fe6289a5f/Twitter.jpg)
 
 ## Technologies Used
 
